@@ -8,7 +8,7 @@ class MyApp(App):
     def build(self):
         return  Button(text="Hi")
 
-# Press the green button in the gutter to run the script/
+# Press the green button in the gutter to run the script/z
 if __name__ == '__main__':
     MyApp().run()
 
